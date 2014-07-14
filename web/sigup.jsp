@@ -25,12 +25,13 @@
     <select multiple="multiple" name="sexy"> <br/>
     <option value="man">男</option>
     <option value="women">女</option>
-</select> <br/>
+    </select> <br/>
     爱好:<input type="checkbox" name="hobbies" value="学习"/>学习
     <input type="checkbox" name="hobbies" value="唱歌"/>唱歌
     <input type="checkbox" name="hobbies" value="跳舞"/>跳舞
     <input type="checkbox" name="hobbies" value="美食"/>美食<br/>
     <input type="submit" value="注册"/>
 
+</form>
 </body>
 </html>
